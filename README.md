@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `5m` sample updated in sync
 
-> **Sample on GitHub** · `AUS200_5m.csv` (11,126 rows, `2026-07-01` -> `2026-09-02`, 717.62 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/aus200)** — **1,102,418** `5m` rows (full `1m`: 5,275,014), **11 timeframes**, `2008-09-10` -> `2026-09-02`.
+> **Sample on GitHub** · `AUS200_5m.csv` (11,088 rows, `2026-07-02` -> `2026-09-02`, 714.52 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/aus200)** — **1,102,418** `5m` rows (full `1m`: 5,046,226), **11 timeframes**, `2008-09-10` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,9 +45,9 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | S&P/ASX 200 · Index | S&P/ASX 200 · Index |
 | Timeframes | `5m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 5m rows | 11,126 | **1,102,418** |
-| Size | 717.62 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/aus200) |
-| Period | `2026-07-01` -> `2026-09-02` | `2008-09-10` -> `2026-09-02` |
+| 5m rows | 11,088 | **1,102,418** |
+| Size | 714.52 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/aus200) |
+| Period | `2026-07-02` -> `2026-09-02` | `2008-09-10` -> `2026-09-02` |
 | File | `AUS200_5m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/aus200) |
 | Coverage report | — | [AUS200 coverage](https://getdata.finance/coverage/aus200) |
 | Updates | Weekly (Saturday, 8am UTC+0) — GitHub sample | Weekly (Saturday, 8am UTC+0) — all timeframes |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`AUS200_5m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-01T20:50:00+00:00 | 8701.73 | 8701.73 | 8700.23 | 8700.23 | 10.64042 |
-| 2026-07-01T20:55:00+00:00 | 8700.23 | 8702.24 | 8700.23 | 8700.24 | 23 |
-| 2026-07-01T23:00:00+00:00 | 8710.21 | 8712.21 | 8708.21 | 8711.21 | 25.56644 |
-| 2026-07-01T23:05:00+00:00 | 8711.21 | 8711.21 | 8708.21 | 8708.21 | 23.1122 |
-| 2026-07-01T23:10:00+00:00 | 8708.21 | 8709.21 | 8703.21 | 8704.21 | 43.68789 |
+| 2026-07-02T02:00:00+00:00 | 8726.8 | 8727.8 | 8721.78 | 8723.28 | 116 |
+| 2026-07-02T02:05:00+00:00 | 8723.28 | 8723.79 | 8716.78 | 8716.79 | 112 |
+| 2026-07-02T02:10:00+00:00 | 8716.79 | 8723.79 | 8715.78 | 8721.78 | 123 |
+| 2026-07-02T02:15:00+00:00 | 8721.78 | 8729.79 | 8720.78 | 8725.29 | 106 |
+| 2026-07-02T02:20:00+00:00 | 8725.29 | 8730.79 | 8724.78 | 8726.28 | 104 |
 
 **Last rows**
 
